@@ -24,6 +24,6 @@ while True:
         print('У вас %d очков и вы закончили игру.' %count)
         break
 
-print('До новых встреч!')
+print('Пока, пока!')
 
 input("Press Enter")
